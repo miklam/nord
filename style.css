@@ -4,12 +4,12 @@
         General Styling
 ----------------------------------------------------------------*/
 html {
-    --black1c-color: #1c1c1c;
+    --black1c-color: #2E3440;
     --black21-color: #2E3440;
-    --black2d-color: #2d2d2d;
-    --black33-color: #333333;
-    --black3e-color: #3e3e3e;
-    --black77-color: #777777;
+    --black2d-color: #2E3440;
+    --black33-color: #2E3440;
+    --black3e-color: #2E3440;
+    --black77-color: #2E3440;
 
     --child1-color:#E74F4F;
     --child2-color:#6bd2db;
