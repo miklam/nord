@@ -134,8 +134,7 @@ a:hover, a:focus {
 }
 
 #links {
-  height: 210px;
-  overflow-y: scroll;
+  height: 190px;
 }
 
 h1, h2 {
