@@ -243,7 +243,7 @@ textarea:focus, input:focus{
   list-style: none;
   display: flex;
   margin: 0 auto;
-  width: 530px;
+  width: 570px;
 }
 .search-engines li:first-child {
   margin: 0 1em 0 1em;
